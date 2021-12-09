@@ -1,6 +1,6 @@
-![Programming-Basics-January-2021](https://github.com/MiroRuskov/SoftUni-Programming-Basics-January-2021/blob/main/_README/HonorableMention.jpg)
+![Programming-Basics-January-2021](https://github.com/MiroRuskov/SoftUni-Programming-Basics-January-2021/blob/main/_README/ProgrammingBasics.jpg)
 
-![Image Not Found](https://github.com/MiroRuskov/SoftUni-Programming-Basics-January-2021/blob/main/_README/ProgrammingBasics.jpg)
+![Image Not Found](https://github.com/MiroRuskov/SoftUni-Programming-Basics-January-2021/blob/main/_README/HonorableMention.jpg)
 
 ---
 
